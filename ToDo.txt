@@ -1,0 +1,8 @@
+
+Internationalization
+    detect a language change and store the updated language in localstorage
+    if a language is in localstorage automatically use it
+    finish english translation
+    finish spanish translation
+    discover other languages
+    add other language translations
